@@ -22,8 +22,22 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 
-### 📦 Tools & Platforms  
+### 🤖 AI / Data
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white)
+
+### ⚡ Hardware / Embedded
+![Verilog](https://img.shields.io/badge/-Verilog-8A2BE2?style=flat)
+![Embedded Systems](https://img.shields.io/badge/-Embedded%20Systems-4CAF50?style=flat)
+
+### 🧪 Development Environment 
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
@@ -59,34 +73,16 @@
 
 ---
 
-## 🧪 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yours-truly-anshika&layout=compact&theme=tokyonight" height="200"/>
-</p>
-
----
-
 ## 🖇️ Find Me Online
 
 <p align="center">
-  <a href="https://linkedin.com/in/yours-truly-anshika"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/anshikachoudhary"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://github.com/yours-truly-anshika"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub"/></a>
   <a href="https://twitter.com/truly_anshika"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"/></a>
   <a href="https://instagram.com/yours.truly.anshika">
   <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>
 </a>
 </p>
-
----
-
-<details>
-  <summary>🐣 Open for a surprise</summary>
-  <p align="center">
-    <img src="https://media.giphy.com/media/1qRknfh5e6r5Mw2KZh/giphy.gif" width="200px"/>
-  </p>
-  <p align="center">🎉 Congratulations! You found my Easter Egg 🐰</p>
-</details>
 
 ---
 
