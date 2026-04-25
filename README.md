@@ -27,8 +27,10 @@
 ### 🤖 AI / Data
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikit-learn)
+![SciPy](https://img.shields.io/badge/-SciPy-8CA5C8?style=flat&logo=scipy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white)
 
 ### ⚡ Hardware / Embedded
