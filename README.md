@@ -36,7 +36,8 @@
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white)
 
 ### ⚡ Hardware / Embedded
-![Verilog](https://img.shields.io/badge/-Verilog-8A2BE2?style=flat)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-3B4794?logo=ieee&logoColor=white)
+![Xilinx ISE](https://img.shields.io/badge/Xilinx_ISE-000000?logo=xilinx&logoColor=white)
 ![Embedded Systems](https://img.shields.io/badge/-Embedded%20Systems-4CAF50?style=flat)
 
 ### 🧪 Development Environment 
